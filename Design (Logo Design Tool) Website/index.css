@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.webToolBackgroundContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    font-family: "Roboto";
+}
+
+.logo-image {
+    height: 50px;
+    width: 100px;
+}
+
+.hamburger-words {
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+.hamburger-background-color {
+    background-color: white;
+    width: 50px;
+}
+
+.banner-page {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+.logoh1 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.logop {
+    font-size: 20px !important;
+    color: white;
+}
+
+.logobutton {
+    color: #0C0521;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #FFDDA9;
+    border-width: 0px;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+.background-colorrr {
+    background-color: #0C0521 !important;
+}
+
+.apps-background-page {
+    background-color: #f9fbfe;
+    width: 100%;
+}
+
+.logosh1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.logosimage-app {
+    height: 60px;
+    width: 100px;
+    padding: 10px;
+}
+
+.deliverpage {
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+.deliverimageeeeee {
+    height: 100px;
+    width: 100px;
+}
+
+.deliverh1 {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.deliverp {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.totalpageeeee {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: "Roboto";
+}
+
+.toolsimageeeeeeeeee {
+    height: 100%;
+    width: 100%;
+}
+
+.toolsh1 {
+    color: #323f4b;
+    font-size: 25px;
+}
+
+.toolsp {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.totalll-page {
+    background-color: white;
+    width: 100%;
+}
+
+.featuresh1 {
+    color: #323f4b;
+    font-size: 25px;
+}
+
+.featuresp {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.featuresimage {
+    height: 50px;
+    width: 50px;
+}
